@@ -1,6 +1,7 @@
 
 # This app functions like a original live updation from the admin to user using web socket
 
+This is the live cricket updation app with two tier architecture consists of many features and initialize the network protocols by using web socket for live updation and it also comparises of adding teams and players 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
